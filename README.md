@@ -1,6 +1,4 @@
-  
-# # Backend Capstone: WeLoveMovies
-
+# Backend Capstone: WeLoveMovies
 
 ## Basic Functionality:
 
